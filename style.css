@@ -1,6 +1,7 @@
 @font-face{
     font-family: "Bespoke";
-    src: url(file:///C:/Users/starl/Desktop/part%2010/fonts/Bespoke.otf);
+    src: url(file:///C:/Users/starl/Desktop/part%2010/fonts/Bespoke.otf),
+        local("Bespoke");
     font-style: normal;
     font-weight: 100;
 
