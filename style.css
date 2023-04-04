@@ -1,0 +1,17 @@
+@font-face{
+    font-family: "Bespoke";
+    src: url(file:///C:/Users/starl/Desktop/part%2010/fonts/Bespoke.otf);
+    font-style: normal;
+    font-weight: 100;
+
+}
+h1{
+    font-family: 'Times New Roman';
+}
+
+Body{
+    text-align: center;
+    font-size: 20px;
+    font-family: Bespoke;
+    font-weight: 100;
+}
