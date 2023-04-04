@@ -1,11 +1,11 @@
-@font-face{
+@font-face {
     font-family: "Bespoke";
-    src: url(file:///C:/Users/starl/Desktop/part%2010/fonts/Bespoke.otf),
-        local("Bespoke");
+    src: url("./fonts/Bespoke.otf");
     font-style: normal;
     font-weight: 100;
 
 }
+
 h1{
     font-family: 'Times New Roman';
 }
